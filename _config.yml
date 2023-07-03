@@ -30,7 +30,7 @@ github_username:  ikulan
 
 # Build settings
 #theme: bay_jekyll_theme
-remote_theme: bay_jekyll_theme
+remote_theme: eliottvincent/bay
 plugins:
   - jekyll-feed
 
