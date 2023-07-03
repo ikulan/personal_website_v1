@@ -29,7 +29,8 @@ url: "https://ikulan.github.io" # the base hostname & protocol for your site, e.
 github_username:  ikulan
 
 # Build settings
-theme: bay_jekyll_theme
+#theme: bay_jekyll_theme
+remote_theme: bay_jekyll_theme
 plugins:
   - jekyll-feed
 
