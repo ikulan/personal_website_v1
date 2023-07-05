@@ -9,4 +9,6 @@ profile_picture:
   alt: website picture
 ---
 
-I have 6 years of experience working in software development, 2 years in full stack web development using Ruby and Javascript and more than 3 years in backend system development using Java. I am also proficient with Python and Data Science skills. I'm actively seeking job opportunities.
+I am a software devloper located in Vancouver, BC, Canada.
+
+I have 6 years of experience working in software development. My experience expands on full stack web development using Ruby, Javascript and backend system development using Java. I am also proficient with Python and Data Science skills. I’m actively seeking job opportunities.
