@@ -18,9 +18,10 @@ bundle exec jekyll serve
 
 
 ## TODO
-- [ ] Refine the contents
-- [v] Change fonts
+- [x] Refine the contents
+- [x] Change fonts
 - [ ] Remove unused resources
+- [ ] Add fixed header and split contents into pages
 
 
 
