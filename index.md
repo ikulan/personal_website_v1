@@ -3,18 +3,7 @@ layout: home
 title: Home
 ---
 
-<!-- Side navigation -->
-<div class="sidenav">
-  <a href="#about">About</a>
-  <a href="#exp">Work Experience</a>
-  <a href="#work-wearisma"> - WeArisma</a>
-  <a href="#work-nb"> - NetBase Quid</a>
-  <a href="#work-garmin"> - Garmin</a>
-  <a href="#ed">Education</a>
-  <a href="#contact">Contact</a>
-</div>
-
-<h1 id="about">About</h1>
+<h1 id="about" class="anchor">About</h1>
 
 Hi👋, I am Patty. I’m actively seeking job opportunities.
 
@@ -26,14 +15,13 @@ I had a career gap to focus on taking care of my baby and family. Now I am ready
 
 ***
 
-<h1 id="exp">Working Experience</h1>
+# Working Experience
 
-<h2 id="work-wearisma">Full Stack Engineer</h2>
+<h2 id="wearisma" class="anchor">Full Stack Engineer</h2>
 Remote from Vancouver, Canada | [WeArisma](https://www.wearisma.com/) \
 `#Ruby #Javascript #CSS #Python #MongoDB #Elasticsearch #Heroku #GitHub`
 
 At WeArisma, a UK-based startup, I have gained valuable expertise in web application development using Ruby and Javascript. The company's product is a platform for marketing professionals to manage and analyze their influencer marketing events on social media. Here are the accomplishments of my role,
-
 
 <dt>Backend</dt>
 - Utilized NoSQL databse technology such as `MongoDB` to store and operate the large-volume data.
@@ -54,11 +42,11 @@ At WeArisma, a UK-based startup, I have gained valuable expertise in web applica
 Working at the start-up, I had the opportunity to immerse myself in various aspects of technology. I enjoyed the efficiency and challenging nature of working in a fast-paced working environment. I also enjoyed working closely with client-facing colleagues to deliver features that highly aligned with clients' needs.
 
 ![Year end gathering at London, UK](assets/photo_wearisma.jpeg "Wearisma")
-<em><center>Year end gathering at London, UK</center></em>
+<em><center>Year-end gathering at London, UK</center></em>
 
-* * *
+***
 
-<h2 id="work-nb">Software Engineer</h2>
+<h2 id="nb" class="anchor">Software Engineer</h2>
 Taipei, Taiwan | Netbase Solutions (Now [NetBase Quid](https://netbasequid.com/)) \
 `#Java #Maven #NLP #XML #Git #Jenkins #Jira`
 
@@ -75,9 +63,9 @@ I've gained valuable experiences working with teams across the globe. The compan
 ![Work with linguists at Heidelberg, Germany](assets/photo_nb_germany.jpeg "Business trip to Heidelberg")
 <em><center>Worked with linguists at Heidelberg, Germany</center></em>
 
-* * *
+***
 
-<h2 id="work-garmin">Software Engineer</h2>
+<h2 id="garmin" class="anchor">Software Engineer</h2>
 Taipei, Taiwan | [Garmin](https://www.garmin.com/) \
 `#C #EmbeddedSystem #Git`
 
@@ -85,7 +73,7 @@ The first job after I graduated was to develop system software of consumer elect
 
 ***
 
-<h1 id="ed">Education</h1>
+<h1 id="ed" class="anchor"> Education </h1>
 
 ## 🎓 Master of Science in Computer Science
 National Tsing Hua University, Taiwan \
