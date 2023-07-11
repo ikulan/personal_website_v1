@@ -72,3 +72,27 @@ img {
 table.table {
   color: var(--color-text);
 }
+
+.sidenav {
+  width: 180px;
+  position: fixed;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  background: var(--color-particles-background);
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 1em;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+

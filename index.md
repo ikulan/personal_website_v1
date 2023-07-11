@@ -3,7 +3,18 @@ layout: home
 title: Home
 ---
 
-# About
+<!-- Side navigation -->
+<div class="sidenav">
+  <a href="#about">About</a>
+  <a href="#exp">Work Experience</a>
+  <a href="#work-wearisma"> - WeArisma</a>
+  <a href="#work-nb"> - NetBase Quid</a>
+  <a href="#work-garmin"> - Garmin</a>
+  <a href="#ed">Education</a>
+  <a href="#contact">Contact</a>
+</div>
+
+<h1 id="about">About</h1>
 
 Hi👋, I am Patty. I’m actively seeking job opportunities.
 
@@ -15,9 +26,9 @@ I had a career gap to focus on taking care of my baby and family. Now I am ready
 
 ***
 
-# Working Experience
+<h1 id="exp">Working Experience</h1>
 
-## Full Stack Engineer
+<h2 id="work-wearisma">Full Stack Engineer</h2>
 Remote from Vancouver, Canada | [WeArisma](https://www.wearisma.com/) \
 `#Ruby #Javascript #CSS #Python #MongoDB #Elasticsearch #Heroku #GitHub`
 
@@ -49,7 +60,7 @@ During my tenure at WeArisma, some major changes happened to my life. First, I m
 
 * * *
 
-## Software Engineer
+<h2 id="work-nb">Software Engineer</h2>
 Taipei, Taiwan | Netbase Solutions (Now [NetBase Quid](https://netbasequid.com/)) \
 `#Java #Maven #NLP #XML #Git #Jenkins #Jira`
 
@@ -68,7 +79,7 @@ I've gained valuable experiences working with teams across the globe. The compan
 
 * * *
 
-## Software Engineer
+<h2 id="work-garmin">Software Engineer</h2>
 Taipei, Taiwan | [Garmin](https://www.garmin.com/) \
 `#C #EmbeddedSystem #Git`
 
@@ -76,7 +87,7 @@ The first job after I graduated was to develop system software of consumer elect
 
 ***
 
-# Education
+<h1 id="ed">Education</h1>
 
 ## 🎓 Master of Science in Computer Science
 National Tsing Hua University, Taiwan \
@@ -101,6 +112,6 @@ National Tsing Hua University, Taiwan
 A streaming system with auto-scale ability. Written in Java and built on AWS EC2.
 
 ***
-
+<p id="contact"></p>
 Thank you for visiting my webpage. Feel free to contact me via following methods.
 {% include contact.html %}
