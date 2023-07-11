@@ -1,10 +1,31 @@
 # ikulan.github.io
+
 Personal website
 
 Used Jekyll to build the site.
 
-### TODO
-- [ ] Update theme, add dynamic elements in the site. \
-      https://jamstackthemes.dev/demo/theme/jekyll-cvless/ \
-      http://jekyllthemes.org/themes/Uno-Timeline/ \
-      https://jamstackthemes.dev/demo/theme/portfolyou/
+
+## Development
+Install the dependencies.
+```sh
+bundle install
+```
+
+Run development instance (with hot-reload)
+```sh
+bundle exec jekyll serve
+```
+
+
+## TODO
+- [x] Refine the contents
+- [x] Change fonts
+- [ ] Remove unused resources
+- [ ] Add fixed header and split contents into pages
+
+
+
+## Credits
+
+- [Theme - cvless](https://github.com/piazzai/cvless)
+
