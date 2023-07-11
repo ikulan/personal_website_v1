@@ -56,8 +56,6 @@ Working at the start-up, I had the opportunity to immerse myself in various aspe
 ![Year end gathering at London, UK](assets/photo_wearisma.jpeg "Wearisma")
 <em><center>Year end gathering at London, UK</center></em>
 
-During my tenure at WeArisma, some major changes happened to my life. First, I moved✈️ from Taiwan to Vancouver, Canada🇨🇦 due to personal reasons. Thanks the company for giving me the opportunity to keep working for them remotely in a totally different timezone🌎. Second, I got pregnant🤰🏻 and was excited to welcome new family member in the new country! After I gave birth to my baby, I decided to pursue my career locally in Canada once my maternity leave ends. Therefore, I left the position of this lovely company.
-
 * * *
 
 <h2 id="work-nb">Software Engineer</h2>
@@ -95,12 +93,12 @@ National Tsing Hua University, Taiwan \
 
 <dt>Research Direction</dt>
 Specialized in NLP. Built a knowledge extraction system to mine terminologies and their definitions from large corpus, disambiguating and clustering the meanings by semantic features. \
-`#Python #flask #MySQL #SQL #Redis`
+`#Python #nltk #flask #MySQL #SQL`
 
 <dt>Teaching Assistant</dt>
-- Search Engine
-- Natural Language Processing Lab.
-- Machine Translation
+Search Engine \
+Natural Language Processing Lab. \
+Machine Translation
 
 ## 🎓 Exchange Student
 Kyoto University, Japan
