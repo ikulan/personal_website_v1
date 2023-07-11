@@ -20,12 +20,12 @@ bundle exec jekyll serve
 ## TODO
 - [x] Refine the contents
 - [x] Change fonts
+- [x] Add fixed header
 - [ ] Remove unused resources
-- [ ] Add fixed header and split contents into pages
+- [ ] Change to [Hydejack](https://hydejack.com/) theme
 
 
 
 ## Credits
 
 - [Theme - cvless](https://github.com/piazzai/cvless)
-
