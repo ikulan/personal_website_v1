@@ -77,13 +77,13 @@ The first job after I graduated was to develop system software of consumer elect
 
 ## 🎓 Master of Science in Computer Science
 National Tsing Hua University, Taiwan \
-[NLP Lab](https://www.nlplab.cc/)
+Affliation: [NLP Lab](https://www.nlplab.cc/)
 
-<dt>Research Direction</dt>
-Specialized in NLP. Built a knowledge extraction system to mine terminologies and their definitions from large corpus, disambiguating and clustering the meanings by semantic features. \
+> <dt>Thesis Research Direction</dt>
+> Specialized in NLP. Built a knowledge extraction system to mine terminologies and their definitions from unstructured large corpus, disambiguating and clustering the meanings by context features. \
 `#Python #nltk #flask #MySQL #SQL`
 
-<dt>Teaching Assistant</dt>
+> <dt>Teaching Assistant</dt>
 Search Engine \
 Natural Language Processing Lab. \
 Machine Translation
@@ -94,10 +94,13 @@ Kyoto University, Japan
 ## 🎓 Bachlor of Science in Computer Science
 National Tsing Hua University, Taiwan
 
-<dt>Senior Year Project</dt>
-A streaming system with auto-scale ability. Written in Java and built on AWS EC2.
+> <dt>Senior Year Project</dt>
+> A streaming system with auto-adjustable scalability written in Java and built on AWS EC2.
+
+<br/>
 
 ***
+
 <p id="contact"></p>
 Thank you for visiting my webpage. Feel free to contact me via following methods.
 {% include contact.html %}
