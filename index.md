@@ -91,7 +91,7 @@ Machine Translation
 ## 🎓 Exchange Student
 Kyoto University, Japan
 
-## 🎓 Bachlor of Science in Computer Science
+## 🎓 Bachelor of Science in Computer Science
 National Tsing Hua University, Taiwan
 
 > <dt>Senior Year Project</dt>
