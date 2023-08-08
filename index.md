@@ -18,7 +18,7 @@ I had a career gap to focus on taking care of my baby and family. Now I am ready
 # Working Experience
 
 <h2 id="wearisma" class="anchor">Full Stack Engineer</h2>
-Remote from Vancouver, Canada | [WeArisma](https://www.wearisma.com/) \
+Remote from Vancouver, Canada | <a href="https://www.wearisma.com/" target="_blank">WeArisma</a> \
 `#Ruby #Javascript #CSS #Python #MongoDB #Elasticsearch #Heroku #GitHub`
 
 At WeArisma, a UK-based startup, I have gained valuable expertise in web application development using Ruby and Javascript. The company's product is a platform for marketing professionals to manage and analyze their influencer marketing events on social media. Here are the accomplishments of my role,
@@ -32,7 +32,7 @@ At WeArisma, a UK-based startup, I have gained valuable expertise in web applica
 <dt>Front-end</dt>
 - Created intuitive user interfaces using front-end technologies such as `HTML`, `Javascript`, `CSS` and `Sass`.
 - Produced interactive data visualization using `D3.js`, enabling advanced analyzing and reporting features within the application.
-- Cultivated auto-generated PDF reports with rich charts and vibrant contents using <a href="https://github.com/prawnpdf/prawn">prawn library</a> in Ruby.
+- Cultivated auto-generated PDF reports with rich charts and vibrant contents using <a href="https://github.com/prawnpdf/prawn" target="_blank">prawn library</a> in Ruby.
 
 <dt>Data Science / Machine Learning</dt>
 - Social media influencer mining and classification
@@ -47,7 +47,7 @@ Working at the start-up, I had the opportunity to immerse myself in various aspe
 ***
 
 <h2 id="nb" class="anchor">Software Engineer</h2>
-Taipei, Taiwan | Netbase Solutions (Now [NetBase Quid](https://netbasequid.com/)) \
+Taipei, Taiwan | Netbase Solutions (Now <a href="https://netbasequid.com/" target="_blank">NetBase Quid</a>) \
 `#Java #Maven #NLP #XML #Git #Jenkins #Jira`
 
 NetBase is a company that provides social listening solutions, headquartered in the Bay Area, California. My role here was to develop the backend system, focused on the Natural Language Processing (NLP) component, using Java. My daily responsibilities include:
@@ -66,7 +66,7 @@ I've gained valuable experiences working with teams across the globe. The compan
 ***
 
 <h2 id="garmin" class="anchor">Software Engineer</h2>
-Taipei, Taiwan | [Garmin](https://www.garmin.com/) \
+Taipei, Taiwan | <a href="https://www.garmin.com" target="_blank">Garmin</a> \
 `#C #EmbeddedSystem #Git`
 
 The first job after I graduated was to develop system software of consumer electronic products at Garmin. It was an incredible experience to participate and see how the electronic products are manufactured. But soon after, an alumni from my lab offered me an opportunity to work at NetBase Solutions, where I can apply the NLP expertise I acquired during graduate school. I made the decision to seize this new opportunity.
@@ -77,13 +77,13 @@ The first job after I graduated was to develop system software of consumer elect
 
 ## 🎓 Master of Science in Computer Science
 National Tsing Hua University, Taiwan \
-[NLP Lab](https://www.nlplab.cc/)
+Affliation: <a href="https://www.nlplab.cc/" target="_blank">NLP Lab</a>
 
-<dt>Research Direction</dt>
-Specialized in NLP. Built a knowledge extraction system to mine terminologies and their definitions from large corpus, disambiguating and clustering the meanings by semantic features. \
+> <dt>Thesis Research Direction</dt>
+> Specialized in NLP. Built a knowledge extraction system to mine terminologies and their definitions from unstructured large corpus, disambiguating and clustering the meanings by context features. \
 `#Python #nltk #flask #MySQL #SQL`
 
-<dt>Teaching Assistant</dt>
+> <dt>Teaching Assistant</dt>
 Search Engine \
 Natural Language Processing Lab. \
 Machine Translation
@@ -91,13 +91,17 @@ Machine Translation
 ## 🎓 Exchange Student
 Kyoto University, Japan
 
-## 🎓 Bachlor of Science in Computer Science
+## 🎓 Bachelor of Science in Computer Science
 National Tsing Hua University, Taiwan
 
-<dt>Senior Year Project</dt>
-A streaming system with auto-scale ability. Written in Java and built on AWS EC2.
+> <dt>Senior Year Project</dt>
+> A streaming system with auto-adjustable scalability written in Java and built on AWS EC2.
+
+<br/>
 
 ***
+
 <p id="contact"></p>
+<br/>
 Thank you for visiting my webpage. Feel free to contact me via following methods.
 {% include contact.html %}
