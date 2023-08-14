@@ -81,7 +81,8 @@ Affliation: <a href="https://www.nlplab.cc/" target="_blank">NLP Lab</a>
 
 > <dt>Thesis Research Direction</dt>
 > Specialized in NLP. Built a knowledge extraction system to mine terminologies and their definitions from unstructured large corpus, disambiguating and clustering the meanings by context features. \
-`#Python #nltk #flask #MySQL #SQL`
+`#Python #nltk #flask #MySQL #SQL #Redis` \
+> [Publications](/publications)
 
 > <dt>Teaching Assistant</dt>
 Search Engine \
@@ -95,7 +96,8 @@ Kyoto University, Japan
 National Tsing Hua University, Taiwan
 
 > <dt>Senior Year Project</dt>
-> A streaming system with auto-adjustable scalability written in Java and built on AWS EC2.
+> A streaming system with auto-adjustable scalability written in Java and built on AWS EC2. \
+`#Java #AWS #EC2`
 
 <br/>
 
