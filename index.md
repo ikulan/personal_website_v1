@@ -7,7 +7,7 @@ title: Home
 
 Hi👋, I am Patty. I’m actively seeking job opportunities.
 
-I have 6 years of experience working in software development. My experience expands on full stack web development using Ruby, Javascript and backend system development using Java. I am enthusiastic about diving into new technologies and building software systems. I like to solve problems through organized and elegant code.
+I have 6 years of experience working in software development. My experience spans across full-stack web development utilizing Ruby and JavaScript, as well as backend system development using Java. Recently, I have developed an interest in <a href="https://huggingface.co/ikulan" target="_blank">experimenting with Large Language Models</a>, aligning my NLP knowledge acquired during my Master's degree studies with the latest advancements in this emerging technology.
 
 I had a career gap to focus on taking care of my baby and family. Now I am ready and excited to resume my career in the software development field that I am deeply passionate about. I am looking for a role where I can apply my expertise and pursue long-term professional growth.
 
