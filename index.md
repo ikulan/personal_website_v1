@@ -3,6 +3,10 @@ layout: home
 title: Home
 ---
 
+> `This is an outdated website.`
+> `Please visit my current personal website`
+> 👉 [ikulan.github.io](https://ikulan.github.io)
+
 <h1 id="about" class="anchor">About</h1>
 
 Hi👋, I am Patty. I’m actively seeking job opportunities.
@@ -82,7 +86,7 @@ Affliation: <a href="https://www.nlplab.cc/" target="_blank">NLP Lab</a>
 > <dt>Thesis Research Direction</dt>
 > Specialized in NLP. Built a knowledge extraction system to mine terminologies and their definitions from unstructured large corpus, disambiguating and clustering the meanings by context features. \
 `#Python #nltk #flask #MySQL #SQL #Redis` \
-> [Publications](/publications)
+> [Publications](./publications)
 
 > <dt>Teaching Assistant</dt>
 Search Engine \

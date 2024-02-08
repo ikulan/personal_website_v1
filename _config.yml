@@ -5,9 +5,9 @@ description: A software engineer based on Vancouver, BC, Canada
 taglong: Software Engineer based on Vancouver, Canada
 tagshort: Patty Liu
 url: https://ikulan.github.io
-baseurl: ""
+baseurl: "/personal_website_v1"
 permalink: pretty
-repo: https://github.com/ikulan/ikulan.github.io
+repo: https://github.com/ikulan/personal_website_v1
 
 # author settings
 
